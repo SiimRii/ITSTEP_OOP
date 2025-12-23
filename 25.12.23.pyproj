@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f8165e78-dc9a-48e2-ac76-e4f4ba5aee3f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>_25.12.23.py</StartupFile>
+    <StartupFile>oop_starting.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="oop_starting.py" />
     <Compile Include="_25.12.23.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
