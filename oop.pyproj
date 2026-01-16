@@ -5,7 +5,7 @@
     <ProjectGuid>f8165e78-dc9a-48e2-ac76-e4f4ba5aee3f</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>26.01.13_oopPrinciples.py</StartupFile>
+    <StartupFile>26.01.13_HW_CalculatingTheArea.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,10 +23,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="25.12.23_oop_starting.py" />
+    <Compile Include="26.01.13_HW_CalculatingTheArea.py" />
     <Compile Include="_25.12.23.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="26.01.13_oopPrinciples.py" />
+    <Content Include="26.01.13__oopPrinciples.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
