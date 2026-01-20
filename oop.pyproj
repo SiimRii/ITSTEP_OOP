@@ -5,7 +5,7 @@
     <ProjectGuid>f8165e78-dc9a-48e2-ac76-e4f4ba5aee3f</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>26.01.13_HW_CalculatingTheArea.py</StartupFile>
+    <StartupFile>26.01.20_time.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,6 +24,7 @@
   <ItemGroup>
     <Compile Include="25.12.23_oop_starting.py" />
     <Compile Include="26.01.13_HW_CalculatingTheArea.py" />
+    <Compile Include="26.01.20_time.py" />
     <Compile Include="_25.12.23.py" />
   </ItemGroup>
   <ItemGroup>
